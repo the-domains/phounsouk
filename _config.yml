@@ -1,0 +1,28 @@
+name: phounsouk
+favicon: null
+layout_spectrum: 0.6556665820535272
+typography_spectrum: 0.021411830093711615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.37268989253789186
+  lightness: 0.9997542162891477
+  saturation: 0.3638988055754453
+  rhythmicContrast: 0.6699888410512358
+purpose: []
