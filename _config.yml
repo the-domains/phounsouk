@@ -1,7 +1,30 @@
-name: phounsouk
-favicon: null
-layout_spectrum: 0.52254
 typography_spectrum: 0.37146
+color:
+  brandColors:
+    - '#07222d'
+    - '#00040a'
+    - '#0f435b'
+    - '#15678d'
+    - '#277aa1'
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.52254
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: phounsouk
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#07222d'
-    - '#00040a'
-    - '#0f435b'
-    - '#15678d'
-    - '#277aa1'
-  brandStrength: 0.625
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0.75
+title: This is a test website for ya boi
 purpose: []
